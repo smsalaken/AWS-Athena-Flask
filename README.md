@@ -1,4 +1,4 @@
-## Information Sharing Framework
+## AWS Athena integration with Flask
 
 run with:
 $ chmod a+x app.py
